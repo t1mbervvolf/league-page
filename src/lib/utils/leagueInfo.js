@@ -8,6 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   Welcome to National Fantasy League 2.0
+  `;
 
 /*   STEP 3   */
 /*
